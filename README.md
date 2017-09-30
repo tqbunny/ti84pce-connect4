@@ -1,3 +1,13 @@
+# Connect 4 for TI-84 Plus CE
+
+This is Connect 4 for TI-84 Plus CE, TI-83 Premium CE and other variants of this calculator.
+
+This version features an artificial intelligence to fight against. Possibility to fight against other players over USB is possibly planned.
+
+Requires at least [this commit](https://github.com/CE-Programming/toolchain/commit/faf09e1471c52ad3ec282703ccc920ee28f937df) to be built.
+
+## License
+
 MIT License
 
 Copyright (c) tqbun 2017
